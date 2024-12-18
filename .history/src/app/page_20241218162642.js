@@ -1,6 +1,4 @@
-// pages/index.js 或 src/app/page.js
-'use client';  // 标记为客户端组件
-
+// pages/index.js
 import { useEffect, useState } from 'react';
 
 export default function Home() {

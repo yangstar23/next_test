@@ -1,5 +1,5 @@
 // pages/index.js 或 src/app/page.js
-'use client';  // 标记为客户端组件
+'use client';  // 这行非常重要
 
 import { useEffect, useState } from 'react';
 
